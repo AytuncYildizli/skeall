@@ -15,13 +15,13 @@ Skeall encodes real-world lessons from building and restructuring production ski
 
 ```bash
 # Claude Code
-git clone https://github.com/dorukardahan/skeall ~/.claude/skills/skeall
+git clone https://github.com/AytuncYildizli/skeall ~/.claude/skills/skeall
 
 # OpenAI Codex
-git clone https://github.com/dorukardahan/skeall ~/.agents/skills/skeall
+git clone https://github.com/AytuncYildizli/skeall ~/.agents/skills/skeall
 
 # OpenClaw
-git clone https://github.com/dorukardahan/skeall ~/.openclaw/skills/skeall
+git clone https://github.com/AytuncYildizli/skeall ~/.openclaw/skills/skeall
 ```
 
 ## Usage
